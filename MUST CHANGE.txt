@@ -1,4 +1,0 @@
-change the ff. values:
-1. ci\application\config\constants.php -> go to line 39 and change the value of the root folder: 
-
-	define('URL','http://10.0.103.113/ci/'); -> define('URL','<root folder of the tool>');
